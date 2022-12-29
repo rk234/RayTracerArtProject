@@ -1,2 +1,2 @@
 # RayTracerArtProject
-Realtime CPU Raytracer written in Java
+Realtime CPU Raytracer written in Java for AOOD
